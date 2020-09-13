@@ -4,4 +4,4 @@ A Python scraper that will gather all Chrome extensions posted in HackerNews and
 
 Added a random delay to reduce the server load on HN's end.
 
-![Terminal output]("img/terminal_output.png")
+![Terminal output](img/terminal_output.png)
